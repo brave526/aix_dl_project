@@ -8,8 +8,8 @@
 - Pandas 통해서 데이터 가공
 
 #### 3. 모델링
+- keras Sequential 모델 사용
 - Multiple Linear Regression 모델 사용
-- 추가적으로 다른 학습 모델 사용하여 분석 진행
 
 #### 4. 검증 및 시각화 진행
 - 완성된 모델 검증 진행
